@@ -298,7 +298,7 @@ nav .fas{
     }
     nav .fas{
         display: block;
-        font-size: 25px;
+        font-size: 20px;
     }
     nav ul{
         background: #ff004f;
@@ -318,7 +318,7 @@ nav .fas{
     nav ul .fas{
         position: absolute;
         top: 25px;
-        left: 25px;
+        left: 20px;
         cursor: pointer;
     }
     .sub-title{
@@ -361,7 +361,7 @@ nav .fas{
         background: #ff004f;
         border-radius: 10px;
         width: 100px;
-        height: 100px;
+        height: 30px;
         text-align: center;
     }
     
