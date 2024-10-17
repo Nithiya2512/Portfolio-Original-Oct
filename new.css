@@ -40,9 +40,9 @@ nav{
     margin-left: 50px;
 }
 .logo:hover{
-    color:orangered;
-    text-shadow: 0 0 25px orangered ,
-                 0 0 50px orangered;
+    color:  #ff004f;
+    text-shadow: 0 0 25px #ff004f ,
+                 0 0 50px #ff004f;
     transform: scale(1.1);
 }
 
@@ -283,7 +283,7 @@ nav .fas{
     }
     .logo{
         color: black;
-        margin-left: 50px;
+        /* margin-left: 50px; */
         margin-top: 10px;
         /* background-color: #ff004f; */
         /* width: 80%; */
@@ -361,7 +361,7 @@ nav .fas{
         background: #ff004f;
         border-radius: 10px;
         width: 100px;
-        height: 3vh;
+        height: 50px;
         text-align: center;
     }
     
